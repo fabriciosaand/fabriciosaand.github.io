@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "br.com.sabesp.android.sabespmobile",
+    "sha256_cert_fingerprints":
+    ["A9:26:3E:9A:D3:87:3F:E4:79:EB:6C:01:94:76:73:81:41:A5:C0:17:26:94:2F:70:83:50:6A:18:D1:5F:4F:2A"]
+  }
+}]

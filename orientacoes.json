@@ -2,12 +2,20 @@
     "urlVideo": "https://www.youtube.com/embed/2ZeckmHyXO8",
     "plaeManuais": [
         {
-            "descricao": "Como fazer a instalação da água.",
+            "descricao": "Como fazer a instalação da água.1",
             "url": "http://site.sabesp.com.br/site/uploads/file/Folhetos/2018/pedidos_ligacao_agua.pdf"
         },
         {
-            "descricao": "Como fazer a instalação do esgoto.",
+            "descricao": "Como fazer a instalação do esgoto.2",
             "url": "http://site.sabesp.com.br/site/uploads/file/Folhetos/2018/pedido_ligacao_esgoto.pdf"
-        }
+        },
+        {
+            "descricao": "Como fazer a instalação da água.3",
+            "url": "http://site.sabesp.com.br/site/uploads/file/Folhetos/2018/pedidos_ligacao_agua.pdf"
+        },
+        {
+            "descricao": "Como fazer a instalação da água.4",
+            "url": "http://site.sabesp.com.br/site/uploads/file/Folhetos/2018/pedidos_ligacao_agua.pdf"
+        },
     ]
 }

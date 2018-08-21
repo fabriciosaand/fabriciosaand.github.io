@@ -1,0 +1,13 @@
+{
+    "urlVideo": "https://youtu.be/IK7HNB-Pci8",
+    "plaeManuais": [
+        {
+            "descricao": "Como fazer a instalação da água.",
+            "url": "http://site.sabesp.com.br/site/uploads/file/Folhetos/2018/pedidos_ligacao_agua.pdf"
+        },
+        {
+            "descricao": "Como fazer a instalação do esgoto.",
+            "url": "http://site.sabesp.com.br/site/uploads/file/Folhetos/2018/pedido_ligacao_esgoto.pdf"
+        }
+    ]
+}

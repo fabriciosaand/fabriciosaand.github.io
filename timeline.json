@@ -1,0 +1,22 @@
+[ {
+    "id" : 1666,
+    "plaeSituacao" : {
+      "nome" : "Pendência de documentos",
+      "acao" : 2
+    },
+    "data" : "2018-09-18T19:04:16-03:00"
+  }, {
+    "id" : 1665,
+    "plaeSituacao" : {
+      "nome" : "Envio documentação",
+      "acao" : 1
+    },
+    "data" : "2018-09-18T19:03:11-03:00"
+  }, {
+    "id" : 1664,
+    "plaeSituacao" : {
+      "nome" : "Inicial",
+      "acao" : 0
+    },
+    "data" : "2018-09-18T19:03:11-03:00"
+    } ]
